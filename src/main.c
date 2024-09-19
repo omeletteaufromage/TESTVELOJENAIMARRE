@@ -1,4 +1,4 @@
-include Adafruit_NeoPixel.h
+include <Adafruit_NeoPixel.h>
 
 // How many internal neopixels do we have? some boards have more than one!
 #define NUMPIXELS        1
